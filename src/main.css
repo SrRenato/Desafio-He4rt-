@@ -1,0 +1,83 @@
+#topo{
+    text-align: center;
+    color: blue;
+    padding: 3%;
+    background-color: blueviolet;
+}
+#painel{
+    display: flex;
+    align-items: center;
+    padding: 50px 10px;
+    font-size: 20px;
+    
+    
+}#font{
+    margin: auto;
+}#font2{
+    margin: auto;
+}
+
+#font{
+    background-color: #a1a1a1;
+    border: solid 2px burlywood;
+    padding: 40px 20px;
+    margin-left: 8px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    justify-content: center;
+
+}
+
+#font2{
+    background-color: #a1a1a1;
+    border: solid 2px burlywood;
+    padding: 40px 20px;
+    margin-left: 8px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    justify-content: center;
+
+}
+
+
+
+#botao{text-align: center;}
+.button{
+    width: 350px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color:red;
+    font-size: 18px;
+}
+
+#resu{
+    text-align: center; 
+    font-size: x-large;
+    border: solid 3px blue;
+    margin: auto;
+    border-style: dashed;
+    color: blanchedalmond;
+    
+
+}
+
+.tamanho{
+    justify-content: center;
+    margin-top: 20px;
+    border-style: solid ;
+    
+
+}
+#geral{
+    background-color:cadetblue;
+}
+
+.bottom-bar{
+    background:#333a56;
+    font-size: 0.75em;
+    text-align: center;
+    padding:15px;
+
+}
