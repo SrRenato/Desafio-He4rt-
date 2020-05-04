@@ -18,5 +18,6 @@ btncalculo.onclick = function(){
 
     resultado.innerText = (`R$ ${valorHora.toFixed(2)}`);
     
+    console.log(2-2)
 
 }
